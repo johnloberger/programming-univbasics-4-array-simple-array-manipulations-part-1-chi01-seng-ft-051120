@@ -6,9 +6,9 @@ def using_unshift(array, string)
   array.unshift("Staten Island")
 end
 
-def using_pop(array, string, string1)
+def using_pop(array)
   array.pop
 end
 
-def pop_with_args(array, arg)
+def pop_with_args(array)
 end
